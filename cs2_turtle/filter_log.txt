@@ -1,0 +1,5 @@
+Requiring a minimum of 105 per locus
+Number of loci passing filters: 12224 (of 13353 total)
+	 0 loci failed for too few individuals.
+	 1129 loci failed for too few parsimony-informative sites
+
