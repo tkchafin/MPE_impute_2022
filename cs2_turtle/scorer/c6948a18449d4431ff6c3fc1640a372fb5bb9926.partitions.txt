@@ -1,0 +1,7 @@
+DNA, box_loc_1 = 1-87
+DNA, box_loc_2 = 88-173
+DNA, box_loc_3 = 174-260
+DNA, box_loc_8 = 261-349
+DNA, box_loc_11 = 350-436
+DNA, box_loc_14 = 437-526
+DNA, box_loc_18 = 527-613
