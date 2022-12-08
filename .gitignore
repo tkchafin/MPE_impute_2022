@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 *.out
 
+=======
+>>>>>>> c98be82b6cfc6abf8a8993ccf8816184daf6c46e
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
